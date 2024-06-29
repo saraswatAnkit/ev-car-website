@@ -1,0 +1,5 @@
+.content{
+    max-height: 100vh;
+    font-size: 65%;
+    overflow-y: hidden;
+}
